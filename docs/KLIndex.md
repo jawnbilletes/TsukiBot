@@ -11,7 +11,7 @@ After a few months of back and forth, KL Index appeared as one of the results of
 of the KL Index is not too elaborate and falls off especially with low market cap coins. However, it serves its purpose.
 
 ## Fitting Crypto
-Daytraders will know that volume is probably the quintessential indicator needed for every chart. That pushed `volume` as a core indicator.
+Daytraders will know that volume is probably the quintessential indicator needed for every chart. That nomimated `volume` as a core indicator.
 The second indicator is the best we can currently get from most sources: market cap or `mcap`. For months I've argued that nominal mcap
 values are useless, but relative mcaps seems to directly rule the crypto hierarchy. The second core indicator is then `mcap`. Lastly,
 I believe that due to the distortion that nominal mcap introduces, the relation is visible after scaling logarithmically.
